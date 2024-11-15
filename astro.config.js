@@ -19,7 +19,7 @@ import rehypeKatex from 'rehype-katex'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://lidongze.github.io',
+  site: 'https://Li-Dongze.github.io',
   integrations: [tailwind(), react(), sitemap()],
   markdown: {
     syntaxHighlight: false,
