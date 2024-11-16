@@ -2,7 +2,7 @@
 title: 【逐晖计划#1】万物的开端
 date: 2024-08-03
 summary: 铸造一场激昂的计划，锻出一段尝胆的生涯
-category: 神
+category: 原作者示例
 tags: [逐晖计划]
 sticky: 1
 ---

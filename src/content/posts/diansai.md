@@ -2,7 +2,7 @@
 title: 【逐晖计划#0】2024电赛小车的fail
 date: 2024-08-01
 summary: 电赛省赛H题以巨大的失败告终，痛定思痛……过去已死，以此为始。
-category: 嵌入式系统
+category: 原作者示例
 tags: [比赛, 单片机, 忏悔录, 逐晖计划]
 comments: true
 ---
