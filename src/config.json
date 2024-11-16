@@ -1,33 +1,33 @@
 {
   "site": {
-    "url": "https://drowsyindra.github.io",
+    "url": "https://github.com/Li-Dongze",
     "title": "博客",
     "description": "这是一个有理想的人走过的漫长道路",
-    "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
+    "keywords": "Li-Dongze,blog,dream,indra,博客,逐梦",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "Kunyi",
+    "name": "Li-Dongze",
     "twitterId": "@lxchapu",
-    "avatar": "/img/avatar.jpg"
+    "avatar": "/img/tkzc.jpg"
   },
   "hero": {
-    "name": "Kunyi",
+    "name": "Li-Dongze",
     "bio": "一个为理想痴狂实干的疯子",
     "description": "理想是追随稚晖君,欢迎一同学习",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/drowsyindra",
+        "url": "https://github.com/Li-Dongze",
         "color": "rgb(239, 70, 107)"
       },
       {
         "name": "bilibili",
         "icon": "icon-bilibili",
-        "url": "https://space.bilibili.com/3546706348084176",
+        "url": "https://space.bilibili.com/583151886",
         "color": "rgb(245, 154, 155)"
       },
       {
