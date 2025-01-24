@@ -1,7 +1,7 @@
 ---
-title: 蓝牙教程00-蓝牙协议栈介绍
+title: 蓝牙教程00-nrfsdk介绍
 date: 2025-01-24
-summary: nrfsdk蓝牙协议栈介绍
+summary: nrfsdk及蓝牙协议栈介绍
 category: 蓝牙教程
 tags: [nrf52840]
 comments: true
